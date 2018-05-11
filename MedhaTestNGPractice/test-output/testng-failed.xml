@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MySuite]">
+  <test name="Test5(failed)">
+    <classes>
+      <class name="com.test.TestNGExpectedExceptionsTest">
+        <methods>
+          <include name="testexception"/>
+        </methods>
+      </class> <!-- com.test.TestNGExpectedExceptionsTest -->
+    </classes>
+  </test> <!-- Test5(failed) -->
+</suite> <!-- Failed suite [MySuite] -->

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MySuite">
+<test name="Test5">
+<classes> 
+<!-- <class name="com.test.TestNGExpectedExceptionsTest"> -->
+<class name="com.test.PriorityTest">
+</class>
+</classes>
+</test>
+
+<!-- <test name="Test1"> -->
+<!-- <classes>  -->
+<!-- <class name="com.test.CalculatorTest"> -->
+<!-- <methods> -->
+<!-- <include name="doCalcTest3"></include> -->
+<!-- </methods> -->
+<!-- </class> -->
+<!-- </classes> -->
+<!-- </test> -->
+
+<!-- <test name="Test2"> -->
+<!-- <classes>  -->
+<!-- <class name="com.test.PrimeNumberTest"> -->
+<!-- </class> -->
+<!-- </classes> -->
+<!-- </test> -->
+
+<!-- <test name="Test3"> -->
+<!-- <groups> -->
+<!-- <run> -->
+<!-- <include name="smokeTest"></include> -->
+<!-- <include name="functionalityTest"></include> -->
+<!-- </run> -->
+<!-- </groups> -->
+<!-- <parameter name="browser" value="firefox"></parameter> -->
+<!-- <classes>  -->
+<!-- <class name="com.test.HomePageTest"> -->
+<!-- <class name="com.test.HomePageTest1"> -->
+<!-- <class name="com.test.ParameterizedTest"> -->
+<!-- </class> -->
+<!-- </classes> -->
+<!-- </test> -->
+
+<!-- <test name="Test4"> -->
+<!-- <classes> -->
+<!--class name="com.test.DataProviderClass"-->
+<!-- <class name="com.test.TestNGExpectedExceptionsTest">  -->
+<!-- </class> -->
+<!-- </classes> -->
+<!-- </test> -->
+
+</suite>

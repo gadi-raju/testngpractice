@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MySuite" duration-ms="281" started-at="2018-05-09T18:02:12Z" finished-at="2018-05-09T18:02:13Z">
+    <groups>
+    </groups>
+    <test name="Test5" duration-ms="281" started-at="2018-05-09T18:02:12Z" finished-at="2018-05-09T18:02:13Z">
+      <class name="com.test.PriorityTest">
+        <test-method status="PASS" signature="zAlphaOrder()[pri:0, instance:com.test.PriorityTest@215be6bb]" name="zAlphaOrder" duration-ms="63" started-at="2018-05-09T18:02:13Z" finished-at="2018-05-09T18:02:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zAlphaOrder -->
+        <test-method status="PASS" signature="aAlphaOrder()[pri:1, instance:com.test.PriorityTest@215be6bb]" name="aAlphaOrder" duration-ms="5" started-at="2018-05-09T18:02:13Z" finished-at="2018-05-09T18:02:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aAlphaOrder -->
+      </class> <!-- com.test.PriorityTest -->
+    </test> <!-- Test5 -->
+  </suite> <!-- MySuite -->
+</testng-results>
